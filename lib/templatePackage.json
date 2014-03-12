@@ -16,7 +16,7 @@
     "human-view-switcher": "~0.0.1",
     "templatizer": "~0.2.9",
     "underscore": "~1.5.2",
-    "stylizer": "~0.4.0"
+    "stylizer": "~0.6.1"
   },
   "devDependencies": {
     "precommit-hook": "~0.3.8"
